@@ -5,6 +5,9 @@ You don't have to compose any sentence but several words.
 
 A pile of mind map, which is automatically created daily.
 
+[YouTube](https://www.youtube.com/watch?v=TTt51OsM5QU "Watch the video")
+
+
 ## Requirements
 - CakePHP 2.6
 - Synary WWW directory
